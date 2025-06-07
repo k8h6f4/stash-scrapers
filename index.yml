@@ -1,0 +1,4 @@
+- id: fc2_custom
+  name: FC2-JP Custom
+  files:
+    - fc2_custom.yml
