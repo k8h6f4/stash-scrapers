@@ -1,4 +1,8 @@
-- id: fc2_custom
+- id: fc2-custom
   name: FC2-JP Custom
+  metadata: {}
+  version: 1.0.0
+  date: "2025-06-08 00:00:00" 
+  source_repository: ""
   files:
     - fc2_custom.yml
